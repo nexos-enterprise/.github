@@ -45,10 +45,16 @@
 
 ## 📫 Contato
 
-<!-- Troque pelos contatos reais da Nexos antes de publicar -->
-- 🌐 Site: _em breve_
-- ✉️ E-mail: contatonexos.ent@gmail.com
-- 💬 WhatsApp: +55 11 98328-7077
+<p>
+  <a href="mailto:contatonexos.ent@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-contatonexos.ent@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://wa.me/5511983287077">
+    <img src="https://img.shields.io/badge/WhatsApp-(11)_98328--7077-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+🌐 Site: _em breve_
 
 ---
 
