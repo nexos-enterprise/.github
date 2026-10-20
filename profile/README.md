@@ -47,8 +47,8 @@
 
 <!-- Troque pelos contatos reais da Nexos antes de publicar -->
 - 🌐 Site: _em breve_
-- ✉️ E-mail: _a definir_
-- 💬 WhatsApp: _a definir_
+- ✉️ E-mail: contatonexos.ent@gmail.com
+- 💬 WhatsApp: +55 11 98328-7077
 
 ---
 
